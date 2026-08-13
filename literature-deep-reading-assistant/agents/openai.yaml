@@ -1,0 +1,7 @@
+interface:
+  display_name: "文献精读助手"
+  short_description: "精读单篇学术文献并生成可追溯的 Obsidian 笔记"
+  icon_small: "./assets/icons/icon-small.png"
+  icon_large: "./assets/icons/icon-large.png"
+  brand_color: "#0B3A64"
+  default_prompt: "Use $literature-deep-reading-assistant to deeply read this paper and create traceable Obsidian notes."
